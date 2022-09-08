@@ -22,3 +22,6 @@ console.log(`Good morning  ${person1} and ${person2}`);
 };
 
 speak( 'Kings','Emily')
+
+
+function
